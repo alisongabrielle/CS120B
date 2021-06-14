@@ -1,0 +1,12 @@
+---
+:id: 75578013
+:submitters:
+- :name: Alison Gabrielle Gonzales
+  :email: alisongabrielle.gonzales@email.ucr.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-04-19 06:49:29.475912000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-04-18 23:49:29.475912000 Z
+:status: processed
+:score: 87.3333
